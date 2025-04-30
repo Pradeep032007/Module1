@@ -1,8 +1,4 @@
 
-
-## Output
-
-![image](https:/
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
@@ -29,7 +25,11 @@ Add Code here
  print("b is", b)
  print("c:", c)
  print("d:", d)
-```/github.com/user-attachments/assets/dd47317c-242b-4e42-89c6-4a52287bb64e)
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/dd47317c-242b-4e42-89c6-4a52287bb64e)
 
 ## Result
 Thus the program has been successfully executed
